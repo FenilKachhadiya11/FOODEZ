@@ -1,0 +1,136 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+h1{
+
+    height: 0px;
+    width: 100%;
+    float: right;
+    font-size: 80px;
+}
+
+    
+marquee{
+    font-size: 40px;
+
+}
+.menu{
+    width: 100%;
+    float: left;
+}
+.menu ul{
+    list-style: none;
+    text-align: right;
+
+}
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+}
+.menu ul li{
+    font-size: 30px;
+    display: inline-block;
+    padding: 10px;
+    margin: 50px;
+    
+}
+.menu ul li:hover{
+    background: gray;
+    transition: 2s;
+}
+
+
+h2:hover{
+    background: rgb(70, 141, 193);
+    transition: 2s;
+    text-align: left;
+  font-size: 45px;
+  color:rgb(4, 102, 106)
+  
+}
+
+h3{
+    text-align: center;
+    font-size: 50px;
+    background-color: crimson;
+    
+}
+h3{
+    
+    text-decoration: none;
+    color: white;
+}
+
+h4{
+    text-align: center;
+    font-size: 50px;
+    background-color: orange;
+    
+}
+
+h4{
+    
+    text-decoration: none;
+    color: orange;
+}
+
+
+h5{
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+    
+    
+}
+
+h5{
+    
+    text-decoration: none;
+    color: orange;
+}
+
+
+h6{
+    text-align: center;
+    font-size: 50px;
+    background-color: green;
+    
+    
+}
+
+h6{
+    
+    text-decoration: none;
+    color: orange;
+}
+
+h5:hover{
+    background: white;
+    transition: 2s;
+}
+
+h3:hover{
+    background: white;
+    transition: 2s;
+}
+
+h4:hover{
+    background: white;
+    transition: 2s;
+}
+
+h6:hover{
+    background: white;
+    transition: 2s;
+}
+
+image{
+    width: 100%;
+
+}
+
+
+
+
